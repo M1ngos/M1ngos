@@ -1,4 +1,6 @@
 <div align="center"> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=00F712&multiline=true&repeat=false&width=500&height=80&lines=Welcome+fellow+smelly+nerd+I+too+;dabble+in+code%2C+break+things%2C+fix+them...;sometimes+in+that+order+%3A)" alt="Typing SVG" />
+</a>
  <br><br> 
   <pre>    
     💼 ISE @ UNISCTEM • Back-end Dev   
