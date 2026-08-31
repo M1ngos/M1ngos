@@ -5,10 +5,10 @@
 
  <br><br> 
   <pre>    
-    💼 ISE @ UNISCTEM • Back-end Dev   
-    💻 System languages • DevOps  
-    🎮 Games • Music • Anime • Code 
-    🚗 ’05 Yaris Pilot 
+      💼 QA Engineer • Back-end Developer
+      💻 DevOps • Cybersecurity • Systems
+      🎮 Games • Music • Anime • Code
+      🚗 ’05 Yaris Pilot
   </pre> 
   <br><br> 
   <img src="https://streak-stats.demolab.com?user=M1ngos&theme=blue-green&hide_border=true" alt="M1ngos's GitHub Stats" width="50%"  /> 
